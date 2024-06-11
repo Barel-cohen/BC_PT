@@ -18,4 +18,4 @@ BC_PT is a comprehensive penetration testing framework that automates various se
 1. Ensure you have the necessary permissions:
 2. chmod 744 BC_PT.sh
 3. bash
-   sudo ./BC_PT.sh
+4. sudo ./BC_PT.sh
