@@ -1,7 +1,6 @@
 # BC_PT
 BC_PT Penetration Testing
 # Link To Video
-https://drive.google.com/file/d/1BKPeTrU0B7JjzzwQpRdPwEccmnwrEbKD/view
 [Click here to view the project video documentation](https://drive.google.com/file/d/1BKPeTrU0B7JjzzwQpRdPwEccmnwrEbKD/view)
 
 ## Overview
