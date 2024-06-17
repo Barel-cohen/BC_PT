@@ -9,7 +9,7 @@ BC_PT is a comprehensive penetration testing framework that automates various se
 
 ## Features
 - **Network Scans**: TCP and UDP scanning using nmap and masscan.
-- **Web Scans**: Web vulnerability scanning using dirb and nikt
+- **Web Scans**: Web vulnerability scanning using dirb and nikto
 - **Passive Scans**: Non-intrusive information gathering using whois and ipinfo.io.
 - **Enumerating Scans**: Information gathering from Windows and Samba systems using enum4linux.
 - **Weak Credentials Testing**: Password cracking using Hydra.
