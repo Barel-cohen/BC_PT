@@ -5,7 +5,7 @@ BC_PT Penetration Testing Framework (Cyber Security)
 
 ## Overview
 BC_PT is a comprehensive penetration testing framework that automates various security assessments using multiple tools.
-[Click here to view the project documentation (PDF)](https://github.com/Barel-cohen/BC_PT/blob/main/BC_PT-PDF-Github.pdf)
+[Click here to view the detailed project documentation (PDF)](https://github.com/Barel-cohen/BC_PT/blob/main/BC_PT-PDF-Github.pdf)
 
 ## Features
 - **Network Scans**: TCP and UDP scanning using nmap and masscan.
