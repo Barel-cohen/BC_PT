@@ -15,8 +15,7 @@ BC_PT is a comprehensive penetration testing framework that automates various se
 - **Weak Credentials Testing**: Password cracking using Hydra.
 - **Anonymous Scanning**: Use of TOR and NIPE for anonymous scans.
 
-## Installation and Runnung
+## Installation and Running
 1. Ensure you have the necessary permissions:
 2. chmod 744 BC_PT.sh
-3. bash
 4. sudo ./BC_PT.sh
