@@ -14,7 +14,12 @@ BC_PT is a comprehensive penetration testing framework that automates various se
 - **Enumerating Scans**: Information gathering from Windows and Samba systems using enum4linux.
 - **Weak Credentials Testing**: Password cracking using Hydra.
 - **Anonymous Scanning**: Use of TOR and NIPE for anonymous scans.
- 
+- **Service Vulnerability Scanner with nmap NSE vuln**:
+Enhance vulnerability detection using nmap’s NSE (Nmap Scripting Engine) for targeted scans like http-vuln-* and smb-vuln-*.
+- **Searchsploit for Results Analysis**:
+Utilize searchsploit to find and analyze existing exploits based on scan results from various tools.
+This addition enriches the toolkit for comprehensive vulnerability assessment and exploit validation.
+
 ## WorkFlow & Menu
 ![image](https://github.com/Barel-cohen/BC_PT/assets/138814830/74442a48-eb64-4e59-b643-5e2be76bd594)
 ![image](https://github.com/Barel-cohen/BC_PT/assets/138814830/8917e273-e522-4938-b167-610ae0c7e8d6)
