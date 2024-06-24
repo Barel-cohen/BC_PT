@@ -15,7 +15,7 @@ BC_PT is a comprehensive penetration testing framework that automates various se
 - **Weak Credentials Testing**: Password cracking using Hydra.
 - **Anonymous Scanning**: Use of TOR and NIPE for anonymous scans.
 - **Service Vulnerability Scanner with nmap NSE vuln**:
-Enhance vulnerability detection using nmap’s NSE (Nmap Scripting Engine) for targeted scans like http-vuln-* and smb-vuln-*.
+Enhance vulnerability detection using nmap’s NSE (Nmap Scripting Engine) for targeted scans.
 - **Searchsploit for Results Analysis**:
 Utilize searchsploit to find and analyze existing exploits based on scan results from various tools.
 This addition enriches the toolkit for comprehensive vulnerability assessment and exploit validation.
