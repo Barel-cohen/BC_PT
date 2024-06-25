@@ -17,7 +17,7 @@ BC_PT is a comprehensive penetration testing framework that automates various se
 - **Service Vulnerability Scanner**: Enhance vulnerability detection with nmap NSE for targeted scans.
 - **Exploit Analysis**: Use searchsploit to find and analyze exploits based on scan results.
 
-This advanced toolkit is tailored to elevate penetration testing initiatives, ensuring comprehensive vulnerability assessment and strategic exploit validation to bolster organizational security posture and readiness against cyber threats.
+This advanced framework is tailored to elevate penetration testing initiatives, ensuring comprehensive vulnerability assessment and strategic exploit validation to bolster organizational security posture and readiness against cyber threats.
 
 ## WorkFlow & Menu 
 ![image](https://github.com/Barel-cohen/BC_PT/assets/138814830/74442a48-eb64-4e59-b643-5e2be76bd594)
