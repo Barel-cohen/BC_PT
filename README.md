@@ -28,7 +28,9 @@ This advanced framework is tailored to elevate penetration testing initiatives, 
 
 
 **Create Working Directory:** Prompt user to name the folder for storing information, fixed at BC_PT-DB on the Desktop.
+
 **Logging and Auditing:** Log file BC_PT.log records all scan details, located at /var/log.
+
 **Logging Details**
 Timestamp: Date and time of the scan
 Scan Type: Basic, Full, Passive, Web, Enumeration
