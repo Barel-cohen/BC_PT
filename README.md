@@ -49,9 +49,13 @@ By following the BC_PT framework, penetration testers and security professionals
 
 ## Key Advantages
 **Efficiency:** Automation streamlines the testing process, allowing for rapid and consistent identification of vulnerabilities.
+
 **Comprehensive Coverage:** By integrating a diverse array of tools, the framework ensures a wide-ranging detection of vulnerabilities. This includes everything from weak credentials to network misconfigurations and web application flaws, providing a holistic security assessment.
+
 **User-Friendly:** The organized structure of the framework simplifies the testing process, making it accessible even to those with limited penetration testing experience.
+
 **Scalability:** The framework can easily adapt to different environments and scales of operation, from small networks to large enterprise systems.
+
 **Detailed Reporting:** The framework provides detailed and organized reports
 
 ## Installation and Running
