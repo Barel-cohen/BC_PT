@@ -32,11 +32,12 @@ This advanced framework is tailored to elevate penetration testing initiatives, 
 **Logging and Auditing:** Log file BC_PT.log records all scan details, located at /var/log.
 
 **Logging Details**
+
 Timestamp: Date and time of the scan
 
 Scan Type: Basic, Full, Passive, Web, Enumeration
 
-Target Information: IP addresses, URLs
+Target Information: IP addresses/IP Range, URLs
 
 Anonymity Status: Real or anonymous IP address
 
