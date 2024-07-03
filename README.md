@@ -1,7 +1,7 @@
 # BC_PT
 BC_PT Penetration Testing Framework (Cyber Security)
 # Link To Video
-[Click here to view the project video documentation](https://drive.google.com/file/d/1BKPeTrU0B7JjzzwQpRdPwEccmnwrEbKD/view)
+[Click here to view the project video documentation](https://youtu.be/aMicrEyjD64?si=ffaoF8z52XLrNffJ)
 
 ## Overview
 BC_PT is a comprehensive penetration testing framework that automates various security assessments using multiple tools.
