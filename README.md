@@ -61,4 +61,4 @@ By following the BC_PT framework, penetration testers and security professionals
 ## Installation and Running
 1. Ensure you have the necessary permissions:
 2. chmod 744 BC_PT.sh
-4. sudo ./BC_PT.sh
+4. sudo ./BC_PT.sh 
